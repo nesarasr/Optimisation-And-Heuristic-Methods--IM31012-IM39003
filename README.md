@@ -1,4 +1,4 @@
-# Optimisation-And-Heuristic-Methods--IM31012/IM39003
+# Optimisation And Heuristic Methods IM31012/IM39003
 Contains Matlab Implementation of the following algorithms
 
 1. Simulated Annealing
